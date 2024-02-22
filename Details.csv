@@ -1,0 +1,30 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-26055,1096,658,7,Electronics,Electronic Games,UPI
+B-25993,5729,64,8,Furniture,BookCases,COD
+B-25973,2927,146,1,Furniture,BookCases,COD
+B-25923,2847,712,5,Electronics,Printers,EMI
+B-25757,2617,1151,9,Electronics,Phones,UPI
+B-25967,2244,247,3,Clothing,Hankerchief,UPI
+B-25955,275,-275,6,Clothing,Kurti,UPI
+B-26093,387,-213,6,Clothing,Hankerchief,UPI
+B-25798,50,-44,3,Clothing,Kurti,UPI
+B-25602,135,-54,7,Clothing,Saree,UPI
+B-25858,231,-190,4,Clothing,Saree,UPI
+B-25969,2125,-234,2,Electronics,Printers,Credit Card
+B-26099,3873,-891,9,Electronics,Phones,Credit Card
+B-25997,729,-492,5,Furniture,BookCases,COD
+B-25881,2188,1050,2,Furniture,Chairs,COD
+B-25761,6,-3,5,Clothing,Saree,Credit Card
+B-25887,1854,433,9,Furniture,Chairs,COD
+B-25823,6,1,6,Furniture,Chairs,COD
+B-25853,2093,721,1,Grossery,Flour,COD
+B-25862,7,-1,5,Clothing,Skrit,Credit Card
+B-25834,1111,700,3,Clothing,Hankerchief,COD
+B-25856,2222,988,5,Furniture,BookCases,COD
+B-25078,4444,8,6,Electronics,Mobile,EMI
+B-25890,9999,0,6,Electronics,Mobile,EMI
+B-25876,8888,-98,7,Grossery,Flour,UPI
+B-25825,6666,-765,8,Grossery,Vegeies,UPI
+B-25333,3333,90,2,Grossery,Vegeies,UPI
+B-25457,7777,7,9,Grossery,Sausages,UPI
+B-25907,5555,-87,9,Grossery,Sausages,UPI
